@@ -1,7 +1,3 @@
-import re
-from collections import Counter
-from nltk import word_tokenize
-
 def main():
 
 	def getInputFile():
@@ -18,18 +14,29 @@ def main():
 
 
 	def wordCount():
-		fileHandler = getInputFile()
+		file = getInputFile()
 		tenorless = []
-		lines = fileHandler.readlines()
+		countlines = 0
+		dict = {}
+		lines = file.readlines()
 		for line in lines:
 			line = line.rstrip()
 			line = line.replace('\n', '')
 			result = [len(line.split())]
+			countlines += 1
 			for x in result:
 				if x <= 10:
+					tenorless.append(countlines)
 					tenorless.append(line)
+		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless))
+
+		for x in tenorless:
+			if key not in dict:
+				dict[key] = tenorless.append(countlines)
+			dict[value] = tenorless.append(lines)
+
+		print(dict)
 
 	wordCount()
 
 main()
-
