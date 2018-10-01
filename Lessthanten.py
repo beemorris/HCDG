@@ -17,8 +17,8 @@ def main():
 		file = getInputFile()
 		tenorless = []
 		countlines = 0
-		dict = {}
 		lines = file.readlines()
+		match = []
 		for line in lines:
 			line = line.rstrip()
 			line = line.replace('\n', '')
@@ -26,16 +26,26 @@ def main():
 			countlines += 1
 			for x in result:
 				if x <= 10:
-					tenorless.append(countlines)
+					match.append(countlines)
 					tenorless.append(line)
-		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless))
+		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file=open("output_hc.txt", "a"))
 
-		for x in tenorless:
-			if key not in dict:
-				dict[key] = tenorless.append(countlines)
-			dict[value] = tenorless.append(lines)
 
-		print(dict)
+		file2 = getInputFile()
+		lines2 = file2.readlines()
+		matchedlines = []
+		countlines2 = 0
+		matches = []
+		for line in lines2:
+			line = line.rstrip()
+			line = line.replace('\n', '')
+			countlines2 += 1
+			matches.append(countlines2)
+			for x in match, matches:
+				if x == x:
+					matchedlines.append(line)
+
+		print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
 
 	wordCount()
 
