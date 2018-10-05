@@ -30,22 +30,30 @@ def main():
 					tenorless.append(line)
 		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file=open("output_hc.txt", "a"))
 
+		file2 = getInputFile() # gets second file
+		lines2 = file2.readlines() # reads in lines of second file
+		matchedlines = [] #creates empty list of matchedlines
+		countlines2 = 0 # initializes and sets to 0
+		counts = []# creates empty list for matches
+		for line in lines2: # iterates over the lines in a file
+			line = line.rstrip() # strips the stuff from the right of lines
+			line = line.replace('\n', '') # replaces the new line carriage return with nothing
+			countlines2 += 1 # increments the countlines variable
+			counts.append(countlines2) # appends the line counts
+			for i in match if i in counts:
+				print(matchedlines)
+			'''
+			for x in match: #iterates over the line counts with less than 10 words from wordCount()
+				if x in counts:
+					matchedlines.append(line) #this should only be appending the matched lines but it's appending all of them and idk why
+				else:
+					quit()
+			'''
 
-		file2 = getInputFile()
-		lines2 = file2.readlines()
-		matchedlines = []
-		countlines2 = 0
-		matches = []
-		for line in lines2:
-			line = line.rstrip()
-			line = line.replace('\n', '')
-			countlines2 += 1
-			matches.append(countlines2)
-			for x in match, matches:
-				if x == x:
-					matchedlines.append(line)
+		#print(match)
+		#print(counts)
+		#print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
 
-		print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
 
 	wordCount()
 
