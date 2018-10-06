@@ -6,7 +6,7 @@ def main():
 			try:
 				fileName = input("Enter file name: ")
 				# Open file for input
-				f = open(fileName, "r")  # Note: "r" means open for reading.
+				f = open(fileName, "r") 
 				bad = False
 			except Exception as err:
 				print("Please enter a valid file name:")
@@ -15,41 +15,36 @@ def main():
 
 	def wordCount():
 		file = getInputFile()
-		tenorless = []
+		tenorless = [] # creates a list for lines that are <= 10 words
 		countlines = 0
 		lines = file.readlines()
-		match = []
+		match = [] # creates a list used for HC line numbers
 		for line in lines:
 			line = line.rstrip()
 			line = line.replace('\n', '')
-			result = [len(line.split())]
+			tokenized = [len(line.split())] # tokenizes the sentence
 			countlines += 1
-			for x in result:
+			for x in tokenized:
 				if x <= 10:
-					match.append(countlines)
-					tenorless.append(line)
-		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file=open("output_hc.txt", "a"))
+					match.append(countlines) # appends the line numbers to the list
+					tenorless.append(line) # appends lines with <= 10 words to the list
+		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file=open("output_hc.txt", "a")) #makes it pretty
 
-		file2 = getInputFile() # gets second file
-		lines2 = file2.readlines() # reads in lines of second file
+		file2 = getInputFile()
+		lines2 = file2.readlines()
 		matchedlines = [] #creates empty list of matchedlines
-		countlines2 = 0 # initializes and sets to 0
+		countlines2 = 0 #
 		counts = []# creates empty list for matches
-		for line in lines2: # iterates over the lines in a file
-			line = line.rstrip() # strips the stuff from the right of lines
-			line = line.replace('\n', '') # replaces the new line carriage return with nothing
-			countlines2 += 1 # increments the countlines variable
+		for line in lines2:
+			line = line.rstrip()
+			line = line.replace('\n', '')
+			countlines2 += 1
 			counts.append(countlines2) # appends the line counts
-			for i in match if i in counts:
-				print(matchedlines)
-			'''
-			for x in match: #iterates over the line counts with less than 10 words from wordCount()
-				if x in counts:
+			for x in match, counts: #iterates over the line counts with less than 10 words from wordCount()
+				if x == x:
 					matchedlines.append(line) #this should only be appending the matched lines but it's appending all of them and idk why
-				else:
-					quit()
-			'''
 
+		print(matchedlines)
 		#print(match)
 		#print(counts)
 		#print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
