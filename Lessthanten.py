@@ -6,7 +6,7 @@ def main():
 			try:
 				fileName = input("Enter file name: ")
 				# Open file for input
-				f = open(fileName, "r") 
+				f = open(fileName, "r")
 				bad = False
 			except Exception as err:
 				print("Please enter a valid file name:")
