@@ -44,12 +44,12 @@ def main():
 				if x == countlines2:
 					matchedlines.append(line) #this should only be appending the matched lines but it's appending all of them and idk why
 
-		print(matchedlines)
-		print(len(matchedlines))
-		print(len(match))
+		#print(matchedlines)
+		#print(len(matchedlines))
+		#print(len(match))
 		#print(match)
 		#print(counts)
-		#print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
+		print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
 
 
 	wordCount()
