@@ -28,7 +28,7 @@ def main():
 				if x <= 10:
 					match.append(countlines) # appends the line numbers to the list
 					tenorless.append(line) # appends lines with <= 10 words to the list
-		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file=open("output_hc.txt", "a")) #makes it pretty
+		print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file = open('output_hc.txt', 'a')) #makes it pretty
 
 		file2 = getInputFile()
 		lines2 = file2.readlines()
@@ -49,7 +49,7 @@ def main():
 		#print(len(match))
 		#print(match)
 		#print(counts)
-		print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
+		print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file = open('output_en.txt', 'a'))
 
 
 	wordCount()
