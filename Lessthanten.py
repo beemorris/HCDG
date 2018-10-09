@@ -40,11 +40,13 @@ def main():
 			line = line.replace('\n', '')
 			countlines2 += 1
 			counts.append(countlines2) # appends the line counts
-			for x in match, counts: #iterates over the line counts with less than 10 words from wordCount()
-				if x == x:
+			for x in match: #iterates over the line counts with less than 10 words from wordCount()
+				if x == countlines2:
 					matchedlines.append(line) #this should only be appending the matched lines but it's appending all of them and idk why
 
 		print(matchedlines)
+		print(len(matchedlines))
+		print(len(match))
 		#print(match)
 		#print(counts)
 		#print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file=open("output_en.txt", "a"))
