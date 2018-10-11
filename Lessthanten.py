@@ -1,6 +1,4 @@
-def main():
-	import csv
-
+def main()
 	def getInputFile():
 		bad = True
 		while bad:
@@ -13,8 +11,8 @@ def main():
 				print("Please enter a valid file name:")
 		return f
 
-
 	def wordCount():
+		# gets the HC lines with <= 10 words
 		file = getInputFile()
 		tenorless = [] # creates a list for lines that are <= 10 words
 		countlines = 0
@@ -29,8 +27,8 @@ def main():
 				if x <= 10:
 					match.append(countlines) # appends the line numbers to the list
 					tenorless.append(line) # appends lines with <= 10 words to the list
-		#print('\n'.join('{}' for _ in range(len(tenorless))).format(*tenorless), file = open('output_hc.txt', 'a')) #makes it pretty
 
+		# gets the matching lines from the EN file
 		file2 = getInputFile()
 		lines2 = file2.readlines()
 		matchedlines = [] #creates empty list of matchedlines
@@ -40,17 +38,11 @@ def main():
 			line = line.rstrip()
 			line = line.replace('\n', '')
 			countlines2 += 1
-			counts.append(countlines2) # appends the line counts
-			for x in match: #iterates over the line counts with less than 10 words from wordCount()
+			counts.append(countlines2)
+			for x in match:
 				if x == countlines2:
-					matchedlines.append(line) #this should only be appending the matched lines but it's appending all of them and idk why
+					matchedlines.append(line)
 
-		#print(matchedlines)
-		#print(len(matchedlines))
-		#print(len(match))
-		#print(match)
-		#print(counts)
-		#print('\n'.join('{}' for _ in range(len(matchedlines))).format(*matchedlines), file = open('output_en.txt', 'a'))
 
 		#creates a tab delimited csv file where HC is on the left and EN is on the right
 		f = open('output.csv', 'w')
