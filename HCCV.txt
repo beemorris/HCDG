@@ -64,7 +64,7 @@ Nangmah lawng khua na sa maw?
 Inn ah mizaw zohkhenh mi na ngei maw?
 Sizung in na chuak tik ah a ho nih dah an zohkhenh lai?
 Zei bantuk inn ah dah na um?
-Na C laknak kong ah chambau mi na ngei maw?
+Na si laknak kong ah chambau mi na ngei maw?
 Inn i an bawmtu ding ah sehthilri na ngei maw?
 I lehthal nak ding ah mi bawmtu  na herh maw?
 Kan hnu zarh 2 in zarh 4 chung ah na tlu bal maw?
@@ -95,7 +95,7 @@ Zei ruangah dah na rat?
 Zei tik ah dah na hmelchunhnak hi a langh?
 Zei tiin dah eksidenh cu a cang?
 Khoi kaa ah dah na si thoh na duh?
-Hi bantuk fahnak hi na tuar bel maw?
+Hi bantuk fahnak hi na tuar balmaw?
 Zei tluk in dah na faak hi langhter.
 Zei nih dah an faakter khun?
 Zei nih dah na fahnak a damter deuh?
@@ -104,7 +104,7 @@ Rian na ṭuan maw?
 Nupi/Pasal na ngei maw?
 Zei ni dah na sibawi a hnubik na ton a si?
 Zei tik ah dah naa khawng silo ah na zawt?
-Anhring hmang in mi a dam ter tu sibawi na tong bel maw?
+Anhring hmang in mi a dam ter tu sibawi na tong balmaw?
 Atu ah hin zawtnak ruangah zohkhenh mi na si  maw?
 Hi bantuk zawtnak ruangah hin zei bantuk zohkhanh nak dah na tuah cang?
 Caan saupi na ngeih cang mi fahnak kong tawi tein ttial.
@@ -115,7 +115,7 @@ Zei bantuk eksersais dah na tuah tawn?
 Zei bantuk zawtnak dah nan inn chungkhar nih nan ngeih tawn?
 Atu ah si na din lio mi a um maw?
 Vitamin C na ding mi a um maw?
-Damnak caah anhring C na hmang maw?
+Damnak caah anhring si na hmang maw?
 Ngandamnak he pehtlai in khoi ka ah dah a hnu bik naa piah?
  Na hna a chet maw silo le aw theih naa harh maw?
 Nan inn ummi vialte fonh in kumkhat hmuh mi lahkhah zat? 
@@ -124,7 +124,7 @@ Zei cataang tiang dah a sang bik sianginn na kai?
 Palik nih tlaih in thong ah an in thla bal maw?
 Zarhkhat ah voi zei zat dah na haa naa ṭeih?
 Zarhkhat ah voi zei zat dah na hakar naa coih?
-Zarhkhat ah voi zei zat dah kam ṭhuahnak C na hman?
+Zarhkhat ah voi zei zat dah kam ṭhuahnak si na hman?
 Haa fak silo le ha zaa na ngei bal maw?
 Suimilam zei zat ah dah an in ching?
 Sibawi nih a donghnak bik na haa an zoh hi zei tik dah a si?
@@ -153,7 +153,7 @@ Atu na ṭuannak kampani kan chawn kho hna maw?
 Hika hin rian na sok bal maw?
 Kum 18 silo le a cunglei na si maw?
 Hi rian he pehtlai in zei bantuk seh thilri dah a hman na thiam.
-Rian na ṭuannak ah rian phuah silo le phuak an in fial bel maw?
+Rian na ṭuannak ah rian phuah silo le phuak an in fial balmaw?
 Hi rian kong hi khoi ka ah dah na theih?
 Zei tik ah dah bia hal na manh lai?
 Ka pawngkam ah zei rawl einak hmun dah a um?
@@ -231,10 +231,10 @@ Kaan tuk hna
 Kaan tuk hna lai
 An in tuk
 An in tuk lai
-Hngakchia pa nih na nu a puk
-Hngakchia pa nih na nu a puk lai
-Na nu nih hngakchia pa a tuk
-Na nu nih hngakchia pa a tuk lai
+Ngakchia pa nih na nu a puk
+Ngakchia pa nih na nu a puk lai
+Na nu nih ngakchia pa a tuk
+Na nu nih ngakchia pa a tuk lai
 Fung in na tuk hna
 Fung in na tuk hna lai
 Amah nu nih muṭhai a ka pek
@@ -256,7 +256,7 @@ Kam Lo nih hmaizarh ah inn a sak lai
 Rawl ka ei hnu ah ka it te lai
 Kan hnuzarh hnu in changreu zeihmanh ka ngei ti lo
 Zarh hnih hnu in Laitlang ka chuah tak lai
-Hai na ei bel maw?
+Hai na ei balmaw?
 Hai na ei maw?
 Nizaan ah cauk ka rel
 A hlan lio pi ah, mipa nih inn a sak
@@ -282,7 +282,7 @@ Hla ka sa
 Bawlung a hrilh
 Buh cu a thaw tuk
 Ti a tle
-Hngakchiapa aa ṭhang nain a mit a ku rih ko
+Ngakchiapa aa ṭhang nain a mit a ku rih ko
 Kutka aa on ruangah a va khar
 Amah pa kha a bah nain a zei a poi lo
 Thlalangawng a khuai tih?
@@ -290,7 +290,7 @@ Thlalangawng a khar maw?
 A kedan a tla nain a zei a poi lo
 Thlalangawng a khuai maw?
 Hri a poih nain a zei a poi lo
-Saveh a tlau i hngakchiapa a ṭap
+Saveh a tlau i Ngakchiapa a ṭap
 Kutka aa ong nain ho hmanh an rak lut lo
 Amah pa kha a bah ruangah a ṭap
 A inn a kangh ruangah a ṭap
@@ -305,22 +305,22 @@ Thlalangawng a khar tih?
 A ke a bei nain a zei a poi lo
 Thingkung a hau maw?
 Amah pa nih kedan a khiah tih?
-Hngakchiapa aa ṭhang hnu in rawl a ei
+Ngakchiapa aa ṭhang hnu in rawl a ei
 Hri a phoih maw?
-Hngakchiapa a ṭhangh tih?
+Ngakchiapa a ṭhangh tih?
 Amah pa nih inn a khaang maw?
 Thlalangawng a kuai ruangah ah ṭap
 Bawlung a hrilh maw?
 Amah pa nih inn a khangh tih?
 A suimilam a thla maw?
 Hri a poih ruangah amah pa nih a hrenh ṭhan
-Hngakchiapa a ṭhangh maw?
+Ngakchiapa a ṭhangh maw?
 A cafung a kiah ruangah a ṭap
 An inn a kaang nain a zei a poi lo
 Bawlung a rilh ruangah uico nih a dawi
 Amah pa nih cafung a khiak maw?
 A cafung a thlak tih?
-Saveh a tlau ruangah hngakchiapa a ṭap
+Saveh a tlau ruangah Ngakchiapa a ṭap
 Bawlung a hrilh tih?
 Thingkung a hau tih?
 Hri a phoih tih?
@@ -441,7 +441,7 @@ Khual ka tlawng lai
 Inn kaa kha rak hrenh te
 Kaa din lai
 Minu a mah pilawng a ṭap
-Hngakchia nute a tlau
+Ngakchia nute a tlau
 Holh lo in umnak nawl na ngei.
 Na chimmi bia vialte nangmah ralchanh in biaceih zung ah kan hman lai
 Biachimpiaktu sihni hlannak nawl na ngei.
@@ -492,7 +492,7 @@ Hniang hrawmnak cabuai a um
 Hi ka hin na ṭhut ter khawh hna
 Na chuakter kho maw?
 Mawtaw cit na huam maw?
-Hngakchia pawl he mawtaw an i cit lai
+Ngakchia pawl he mawtaw an i cit lai
 Chinku hmai ah mawtaw a mawng
 Khi ka khin cabuai a um i khi ka khin ṭhuden an um.
 Mipa te a um
@@ -500,7 +500,7 @@ Thingkuang chung a van banh
 Rawl ei ah kan kal hnga maw?
 Rawl ei ah kal sih
 Uico cu rawl a ei hmasa lai
-Hngakchia nu te a ra hih
+Ngakchia nu te a ra hih
 Kha kaa chung ah khan zei dah a um?
 Ka nu nih a zapei ah a pum mi te a chiah
 Khoi ka ah dah a kal?
@@ -515,7 +515,7 @@ An lawi lai maw?
 Khoi ka ah dah midang cu an kal?
 Pakhat in na caw ṭhan kho maw?
 Ihnak ah kal na duh maw?
-Hngakchia kha na it ter kho maw?
+Ngakchia kha na it ter kho maw?
 Mawtaw ralring tein an chek
 Mipa cu ṭhudan ah a ṭhu
 A dang zei dah kan ngeih ti?
@@ -523,7 +523,7 @@ Cabuai kam ah ṭhu hna sih
 Cabuai ah kan ei hnga maw?
 Zei dah tuah seh ti na ka duh?
 Hlei kan kai hnga maw?
-Hngakchia pate hi zoh hmanh
+Ngakchia pate hi zoh hmanh
 Hlei na kai kho maw?
 Zei ruangah dah hlei na kai ter lo?
 Tanglei a sawh
@@ -536,9 +536,9 @@ Zei zungkhar ni dah a si?
 Khoi ka tal ah Thangthang na hmu maw?
 Innkaa pakhat deuh kha ong
 Khakha cu an har tuk
-Hngakchia te nih a nu a nih
+Ngakchia te nih a nu a nih
 Innkaa in lut
-Hngakchiapa a lung a buai
+Ngakchiapa a lung a buai
 Bawm chung a zoh
 Bawm chung a banh
 A lenglei in zoh
@@ -555,7 +555,7 @@ Phaisa cu phaisabawm ah a chiah
 Ar nih zei aw dah a chuah?
 Kha kha pei ar nih cun a chim cu
 Uico pahnih an ngei
-Hngakchia nih innkhan ah bawlung a chiah
+Ngakchia nih innkhan ah bawlung a chiah
 Ihkhun a ngan pi a ngei
 Peng cu zungput ah a lut
 Chikhat te ah a ra ṭhan lai
@@ -591,7 +591,7 @@ Hringtu nu nih a hmur a van i rek le a nii
 Tuni ah ka pi kan inn ah a ra lai maw?
 Uico ah ka ruah cu
 AaThang khi ho pawng ah dah a dir?
-Hngakchia min cu ho dah a si?
+Ngakchia min cu ho dah a si?
 AaThang ar a ra hih
 ChinChin lei ah ar an tek
 Uico a ra hih
@@ -609,8 +609,8 @@ Na phaisa kaa cawi kho maw?
 A kan cham ṭhan lai
 Zei thei dah a tu hi an hmin?
 Ṭih a nung tuk mi aw na thei maw?
-Hngakchia ihnak ah a chiah
-Khoi ka ah dah  hngakchia a it?
+Ngakchia ihnak ah a chiah
+Khoi ka ah dah ngakchia a it?
 Zaanriah ah zei dah ei na duh?
 Facang kan chumh lai
 Thei an thuu dih
@@ -631,18 +631,18 @@ An mawtaw thar na hmu cang maw?
 Hlei hi an fek lo caah i ralring
 A ṭhu
 Zaangfahnak in bawm kha thianh
-Mileng an rat hlan ah hngakchia nih an lentecalhnak an lak dih
+Mileng an rat hlan ah ngakchia nih an lentecalhnak an lak dih
 Kan innpa uico thang tuk in a bo
 A kal ahau, nain a kir ṭhan lai
 Bawlung chuih lawng ka duh
 A nu nih a kal tak mi a ngaih a chia
 Angki raang cu a lian tuk
-Hngakchia cu a nu a lo
+Ngakchia cu a nu a lo
 Na angki lingmaw zawng maw a si a sen?
 Rawl ei kaa manh
-Hngakchia nute cu amit a ku
+Ngakchia nute cu amit a ku
 Inn lian deuh an duh, nain an herh lo
-Hngakchia ihkhun tang ah aa thup
+Ngakchia ihkhun tang ah aa thup
 Hi lentecalhnak hin i calh sih
 Hi bawm hi kan ong rih lo 
 Chess kan i calh te lai
@@ -671,7 +671,7 @@ Inn chung ah na mawng lai maw?
 Duh sah tein an kal a hau
 A it cang lai maw?
 Khoi ka ah dah mi vialte an kal dih?
-Hngakchia a ṭap, a ruang cu a nu a duh
+Ngakchia a ṭap, a ruang cu a nu a duh
 Mipa nih dawr ah kal a duh maw?
 Zei ruangah dah dawr ah a kal lo?
 Khoi ka ah dah dawr a um?
@@ -755,7 +755,7 @@ Na pa na can cang maw?
 Kal caan a si cang
 Ca na nam bal maw?
 Kan inn cu canphio kan cih
-Kan hngakchiat lioah capawl lakah kan i bual tawn
+Kan Ngakchiat lioah capawl lakah kan i bual tawn
 Ṭhal nih kan ti hram a carh dih hna
 Ca na ka kuat piak kho hnga maw?
 Hri a cat
@@ -999,17 +999,17 @@ Inn chung lawngah aa erh
 Facang ci kan erh
 Thil a cawk tikah chaw a deet lengmang hna
 Nupi nan halmi cu kam ṭha an in pek hna ahcun lunglomh awk a si
-Zaanriah ka ei dihin kaan leng te hna lai
+Zaanriah ka ei dih in kaan leng te hna lai
 Kan uipi fano a ngei i a hrang
 Faphir an si i an i lo ngai
-La fa khat in rak pu tuah
+La fang khat in rak pu tuah
 Kum fa tin voikhat tal cu rak ka tlawng muh
 Ṭhi rualkhat ah fang sawmruk a um
 A fa a fai duh lo
 A ke a faak
-Sui le ngun in aa fam
+Sui le ngun in aa tuam
 Rai nih a ka fanh
-Fanu dawh ngei cu far nih a zo tawn hna lo
+Fanu dawh ngeih cu faar nih a zo tawn hna lo
 Fapa pa li a ngeih hna i sianghleiruun an dih dih
 Faar kan hlam lai
 A inn cu a fa ngai te
@@ -1034,15 +1034,15 @@ Na sa a fil
 Na zu a fil tuk caah aho hmanh nih an ding duh lo
 Thil na fim tikah i ralring
 Ka cauk ka fim lioah kapa cakuat ka hmuh
-Ti a fiim
+Ti hri ti cu a fiim
 Van a fim, ruah a sur lai lo
-A lung a fim cang
+A lung a fiim cang
 A fim caah mi nih an dawt
 Sa a fip
-Inntek nih meh an fip tuk tikcah mileng nih meh an i suah ngam lo
+Inntek nih meh an i reet tuk tik ah mileng nih meh an i suah ngam lo
 Na fir lai lo
 Voikhat na fir ahcun an lem lai
-A hnar a fong
+A hnar a fonghlei
 Sopum khua taw ah fu kan fep lai
 Fuzu cu ngandamnak caah a ṭha an ti
 Na tawhrolh a fual tuk
@@ -1056,8 +1056,8 @@ Na rian ṭuan a fum tuk ahcun an in duh lai lo
 Fur ah utlak an chuak
 Furpi chung ah kan nithawng a ṭet dih
 Minung cu kan fai lo naak zong a um lai
-Sui le ngun in aa fam tikah aa dawh mi a von lo ngai ve
-Nan balṭin ti a far ahcun na remh lai
+Sui le ngun in aa tuam tikah aa dawh mi a von lo ngai ve
+Nan balṭin ti a zut ahcun na remh lai
 A inn a hmetuk mi kha a ning a zak
 A rian a fawi caah a zaang a dam
 Mi i sik ding forh cu a ṭha lo
@@ -1069,7 +1069,7 @@ Ka lung a len lio ah na ra
 Tho kha an ci nan hmih dih hna lai
 A huat tuk i a cil a chak
 Nizan cu zu cim tuk in kaa din sual i nihin cu ka lu a fak tuk
-Sa na cim tuk ahcun ei ti hlah
+Sa na vuai tuk ahcun ei ti hlah
 Ka puan a cin
 Na lu a cin lioah i ṭawl
 Vanram ahcun kan kal cio ko lai
@@ -1077,22 +1077,22 @@ Circik cu a rim a nam tuk
 Meh ah cite phulh lo ahcun a thaw duh lo
 Civui zawh cu a nuam hringhren ko
 Kei nih cun kaan co kho rua lai lo
-Ka covo ti i ruah mi hmuh lo cu thing a hung ngai
+Ka covo ti i ruah mi hmuh lo cu thin a hung ngai
 Ka duh mi ka co khawh nak ca ding cu kaa zuam awk a si
 Cong in ti ka rak than bal ve
 Congoih tum na thiam maw?
 Conghrang bantuk in a muisam aa thleng mi minung zong an um ve
-Si le zu cu cok hlah
+Si le zu cu cawh hlah
 Nga siotarh ah cangcel kan hman
 Zu an chuan tikah colh an hman
 A ra i a kal colh
 Rawl na com lengmang ahcun a dih te lai
 Khua sik nih kan anṭam a comh
-Khua conh ka duh
+Khua cuanh ka duh
 Thil conh ka'an duh
 A ke a cor caah ṭhatein a kal kho lo
 Cu khua cu a ṭha
-An cu tu rul na hmu maw?
+An cutu rul na hmu maw?
 Umruang in zu hei suak tuah
 Tlangpar cung i vailam an phunmi te cu a cuang ngai
 Ka caah cuai hin hlah mu, ka dawt!
@@ -1107,11 +1107,11 @@ Ram vialte a cul caah a fim
 An bawi si ter naak caah chiti in a lu ah an cul cang maw?
 Kan lo hi kum khat kan culh lai
 A ṭaang aa cum i a ṭap
-Na cum a pit lengmang mi hi sibawi vaa zoh ter hngat
+Na cum a pit lengmang mi hi sibawi vaa zoh ter ngat
 Ka pa a lung ka cunh hnu cun a ka bawm duh ti lo
 Kan thlam ah curcuk an tam ngai
 A ral a chia
-A cur a dut ruang ah a tlolh mi a um len lai
+A cur a dut ruangah a tlolh mi a um len lai
 Zing he zaan he thing an ceek ko
 Ka pa nih bia a kan cah taak mi cu rak i daw u ti a si
 Kan bia na kan caih kho lai maw?
@@ -1121,17 +1121,17 @@ Bia a chim tuk naak ah a aw a pit dih
 Bia a kan chimh mi cu ka uar ngai
 Sa ka can lioah ka pawng ah ka neih tuk hlah
 Ca na ṭial pah in na ngu bal maw?
-Hngakchia a cokdek mi cu anmah khi hna an hnok chin
+Ngakchia a cokdek mi cu anmah khi hna an hnok chin
 A duh a ceet tuk caah va a ngei kho lo
 Ka cei tuk caah zufa tlawmpalte ka din
 Na lengke a cei tuk ahcun a hnuh a har deuh lai
 An chim mi a chal khawh lo tik hna ah amah tu a ning a zak ṭhan
-An i si i a phun aa chal
+An i si i a phun aa chaal
 Bawlung vanpang i aa chawl hnu ah a ka khen
 A thil aa chawr tuk tikah mi a neng
 Mei a chem tuk naak ah vutcam nih a mit a bangh
 Lung a cher lioah hna hnawhnak pe hlah
-A chiatkhat tuk caah mi nih an fih dih
+A chiatkhaat tuk caah mi nih an fih dih
 Vanpang nan chon mi a fek lo
 Ka awlok a chon tuk nak ah ka thi deng
 Awlok a kan chonh
@@ -1139,7 +1139,7 @@ Mi a chawnhbiak ning a ṭha ngai
 Thil na ka chonh mi a tam tuk
 Ka nu rak ka chawnh piak te mu, ka dawt!
 Amah nak upa zong ṭha tein a chawnkhian duh hna lo
-Ka chung a pit tuk i chungtlik C ka ding
+Ka chung a pit tuk i chungtlik si ka ding
 Lam an chukcho tuk nak ahcun leng a kal duh lo
 Na ciangzar lawng kan ei ko ne hih!
 A umtu nih a ka ciah tuk
@@ -1260,7 +1260,7 @@ Aa hngilh thluahmah ko
 Facanghum kan zah i a hi a choi
 Hi cauk hi ka duh
 Hi hi ka cauk a si
-Sa na hiar bel maw?
+Sa na hiar balmaw?
 Paih nih a ka hiar
 Caminpuai a sung i a hiing ko
 Hi cauk hi ka duh hih!
@@ -1272,7 +1272,7 @@ Hi ka hin ra tuah
 An dihlak in an thi dih hirhiar
 Sau tuk ka ṭhu i ka ke a hih in a hit
 Ti thianglo ding hlah!
-Na paw an in hlai bel maw?
+Na paw an in hlai balmaw?
 Thlan an hlai lioah an tlaih hna
 Thaizing ah na tlunnak inn ah kan rak in hlam pah lai
 Na cauk rak hlampah
@@ -1360,7 +1360,7 @@ Mei ka kau lai
 Na cauk na kau tikah rel ma philh lai cih
 An ram a kauh deuh cun an si a ṭha deuh ve
 Lam an kauh
-Zu kua cawh an duh
+Zunghnam kua cawh an duh
 Ka keng a fak
 Zu kawng ah rap kan tunh
 Nam kawng ah nam kan sawh
@@ -1370,7 +1370,7 @@ Bee kan kawng lai
 Ramlak ah ka kawngthun kaa ken zungzal
 Na nu nih an kawh
 Na kawhra a thlum ngai
-Ka kawi ka ral cang
+Ka kawi cu ka ral ah a cang
 Nangmah le keimah kan i kawi lai
 Lai Tlang lam cu an kawi ngai
 Ka caw ka kawl lengmang nain ka hmu kho lo
@@ -1499,7 +1499,7 @@ Khua a rit taktak ahcun ṭih a nung ngai ve
 Ramdang i khua kan sak hnu zongah Laitlang kan ngai ṭhiam ko
 Kan nu khua a tli i rawl ka chuang ko hih
 Khua na tlik lengmang ahcun aan lem lai
-Na thil a man a fak tuk
+Na thil man a fak tuk
 A sam a chah
 Na thiam a khung tuk
 Kik nih a tlaih i a khuh
@@ -1511,14 +1511,14 @@ Nu he pa he nan ra dih lai
 Nan lu khun tuah u
 Bawi hmai i na lu na khun lo ahcun an thin a hung kho
 Hrai kha a khup in chia tuah
-Hngakchia nih khuprul an ngeih ahcun an ṭhang kho lo
+Ngakchia nih khuprul an ngeih ahcun an ṭhang kho lo
 Caw ki le sia ki cu an i tia deuh lai lo
 A bia ki ngaih awk a herh
 Chum a kian hlan ahcun khua ṭhatein kan hmu kho lai lo
 Kiam ah caw an riak
 Meh na kiau ah chiti tamtuk na hman lengmang
 A paw thau le a thau sawsawh cu an i khat deuh lo
-Hngakchia an au an kiao lawng cun kan va chuak cio
+Ngakchia an au an kiao lawng cun kan va chuak cio
 Hi hmun cu hmun king a si cang
 Ka ke a kik
 Lam aa kikiau tuk tikah kan ri dih
@@ -1674,7 +1674,7 @@ Nikhat ah na hlawh zeizat dah a si?
 Na hlawh a tlin ding na duh ah cun i zuam
 Ka luchin hi nangmah nih hlawi tuah
 Na angki leng ka hlawi tuah lai
-Nauhlawmtu nih hngakchia chuahka kha a hlawm
+Nauhlawmtu nih ngakchia chuahka kha a hlawm
 Hlawn tampi a ngei
 Kan hlawp a tlo tuk lio ah kan hlasak a dih
 Hawi ṭha nih cun a hawi a hlawt awk a si lo
@@ -1693,7 +1693,7 @@ Lampi ah hliamkhuai an tong
 Vompi a hliam mi dawi ah a ka sawm nain ka ngamh lo
 Na sa hliamhmi na dawi ṭhan tikah i ralring
 Ramlak ah hling tampi an um
-Nungak hni na hlim bel maw?
+Nungak hni na hlim bal maw?
 Thingthu kha van paih tuah
 Mei aa hlio lio pi ah thingthu a va purh sual i a kut a kangh
 A tangka a hloh manh dih ko
@@ -1753,7 +1753,7 @@ Hmawng ṭhiam cu a rak har ngai ko lai
 Changreu kha hmawh na duh ah cun hmot tuah
 Lungtekep kha na ka in hmawm hna hlah
 Na thlam cu a hme ngai hi ta
-Hngakchia hme a si
+Ngakchia hme a si
 Saveh hmete pakhat a zuat
 Arti cu na hmeh ahcun a kuai lai
 Ka keng ka hmet tuah
@@ -1804,7 +1804,7 @@ Na hmur a sau tuk ahcun ahohmanh nih an in rem lai lo
 Mah nu khi a hmur a sau tuk caah aa chuah sual lengmang
 Kan hnakhaw in khua kan theih
 Ti hna ah cun ti a tampi ko
-Sianghngakchia hna ca an cawng
+Siangngakchia hna ca an cawng
 Ka rian ah ka hnabei a dong
 Na hnabei dongh a fawi tuk
 Caminpuai ka awng lai tiah ka hnabei a sei
@@ -1847,7 +1847,7 @@ Laimi tam deuh cu kan hnar a beek
 Rang cu a hnarkua a kau deuhmi poah an ṭhawng deuh an ti
 Zaan ah a hnar lengmang
 Zaan ah a hnar lengmang caah a pawng it a har ngai
-Sianghngakchia hnarcheu an awng
+Siangngakchia hnarcheu an awng
 Vok ka thah ahcun a hnat kaan hleh lai
 Ka rian kaa lim i ka hna a thiang ngai
 Hnathiang in um ka duh
@@ -1929,7 +1929,7 @@ Hor thukpi ah kal hmanh ning law, ka ṭih lai lo
 Hi tiva cu a hrah a chia
 Aa hrahhram ngai i ningzak a si
 Nan inn hram a fek maw?
-Cacawn duhnak hram ka ngeihnak hi ka hngakchiat tein a si
+Cacawn duhnak hram ka ngeihnak hi ka ngakchiat tein a si
 A nu a thih ah kan hnem kho lo i ka ngaih a chia ngai
 Nganfah in a hraam
 Sahrang pakhat a hram kha kan theih
@@ -2036,7 +2036,7 @@ Hrimhnak ah ca ka rel
 A dang an rat khawh lo zongah nangmah hrimhrim na ra lai muh!
 Amah cu ka zumh hrimhrim ko
 Kan uipi nih fa paruk a hrin
-Hngakchia cu mi an nen tuk tikah kan chimhhrin hna awk a si
+Ngakchia cu mi an nen tuk tikah kan chimhhrin hna awk a si
 Kan hrinsor hna hi ṭhatein kan zohkhenh ding hna an si
 Ahohmanh hrinṭhan a si lo ahcun Pathian pennak kha a hmu kho lai lo
 A hrip hriau zungzal
@@ -2055,7 +2055,7 @@ Hmaizarh cu tiva ah hru kan deng lai
 Kan dum hruang ka kulh
 Amah nih an hruai lai
 Lam kan hruai tuah
-Hngakchia te kha a pa nih a kut in a hruai
+Ngakchia te kha a pa nih a kut in a hruai
 Hri a hrual cuahmahmi khi ka pu a si
 Ṭhaiṭholh sawmnga in an hrual
 Zaithum komh hri an hrual
@@ -2116,7 +2116,7 @@ A ruak kan hum lai
 A phaisate cu hmang loin a humh ko
 Ruak kan humhnak ah kan i tong
 Na facang cu a hum a tam ngai
-Hngakchia kha kan humhak hna lai
+Ngakchia kha kan humhak hna lai
 Kan thingram kan humhak hna awk a si
 Sianginn i na rat tikah kan inn ah rak taang pah te
 Kan inn i na hun rat tikah anṭam rak kan put te
@@ -2159,7 +2159,7 @@ Ihnak ka ngei lo
 Ihnak caah ihkhun ka ngei lo
 Zarhkhat chung ruah a sur cang cun a cet taktak
 Na ihphah a ngan
-Hngakchia cu ti na toih ahcun a ik lai
+Ngakchia cu ti na toih ahcun a ik lai
 Harnak tampi an in hnu lawng ah an lung a fim 
 Harnak ing cu a ingtu caah cun a har ko
 Hremnak kan innak a sau tuk cang
@@ -2467,7 +2467,7 @@ Ka dawtnak hi nikhat hnu nikhat a thuk chin
 Anmah te pawl nih cun an in tluk rih lai lo
 Hi computer hi a ṭha pawl a si
 Hi nga hi a thaw pawl an si
-Sianghngakchia pawl sianginn an kai
+Siangngakchia pawl sianginn an kai
 Ka rang cu a pawl
 Na rang a pawl caah aa dawh
 Anih cu mi a kom duh lo
@@ -2475,12 +2475,12 @@ Zahan cu kan hawile hna he kan i pawl i kan i nuam ngai
 Mi he an i pawl khawh lo caah amah lawng in a um
 Pawlai lai nih vok a seh
 Rawl le thetse cawhpawlh a ṭha lo
-Hngakchia te kha a nu nih a pom kho rih lo
-Hngakchia a pommi khi ka far a si
-Hngakchia kha a ṭang ah a pom
+Ngakchia te kha a nu nih a pom kho rih lo
+Ngakchia a pommi khi ka far a si
+Ngakchia kha a ṭang ah a pom
 Na ruahnak ka pom kho lo
 Na laksawng lunglomhnak in ka pom
-A nu nih hngakchia kha a pom
+A nu nih ngakchia kha a pom
 Tlangval nih ngaknu a pom
 A leiba chamnak ah a inn a pawn
 Pawpi cu rumra a ngei
@@ -2538,7 +2538,7 @@ Phaisa pelpawite lawng ka ngei
 Cawhnuk kha a pelpawite lawng ka din lai
 Ka angki a pem
 Kan vanpang a pemnak kha a kau ngai
-Ka bel a pem caah a zut
+Ka bala pem caah a zut
 Mi tampi nih USA pem an duh
 US na pem ruang ah naa nuam hlei maw?
 Kawl i an pemnak a sau cang
@@ -2659,7 +2659,7 @@ Mi lungpuam a si
 Cawngnak puan cu a man a tam ngai
 Tawhrolh ca na cawkmi puan kha a hme tuk
 Puan hnawisawt
-Hngakchia cu puan aih an thiam rih lo
+Ngakchia cu puan aih an thiam rih lo
 Puansen cu puai tikah kan i aih
 Na angki caah puanthan kan caw lai
 Zahan cu ka pi a kan leng
@@ -2668,7 +2668,7 @@ Vawlei cu pungsan a rak ngei lo
 An saṭil an karh ngai
 An saṭil an karh caah an rum ngai cang
 Fir a'n puh
-Hngakchia le hngakchia an i puk
+Ngakchia le ngakchia an i puk
 Kum 1918 ah Lai Tlang ah pul a rak tlung
 Ar an pul
 Kan ar an pulh caah ar kan ngei ti lo
@@ -2993,7 +2993,7 @@ Thing le lung biami nih rai an rak thawi tawn
 Thing le lung a biami caah cun raithawi hi damnak phun khat a si
 Raithawinak caah ar do tla an hman tawn
 A bawipa nih a sin um kha a raak
-Hngakchia kha a thin a phang i a raak
+Ngakchia kha a thin a phang i a raak
 Cauk kha rak pu tuah
 Hmai ah rak kal chung
 Ni kum ah hi rang hi ka rak cawk
@@ -3439,7 +3439,7 @@ Ka chung a vang
 Ka fa damlo nih ka chung a ka vangh
 Nan lo vah kha January thla ah cun nan lim awk a si
 Lo vah nak ah a ke hreitlung in aa tu
-Hngakchia kha vah a thiam cang
+Ngakchia kha vah a thiam cang
 Vah na duh tuk
 Kan fa a vah nak thlathum a si cang
 Dawtku nih Dawtceu a vat
@@ -3777,7 +3777,7 @@ A liang in thing a put
 Amah cu mi siang a si
 Laimi sinah siangbawi hmasabik hna cu 1899 ah an ra
 Arthur Carson le Laura Carson cu Laimi siangbawipa le siangbawinu hmasabik an si
-Kan sianginn ah sianghngakchia zakhat an um
+Kan sianginn ah siangngakchia zakhat an um
 Kan ram ah sianghleirun pakul an um
 Sianginn kai ka duh ngaingai
 Sianginn ah ka va kal lai
@@ -3858,7 +3858,7 @@ A fir kong kha an ceih sipsep
 Ka sir ah a ṭhu
 Tlang sir in khual ka tlawng
 Lam sir ah thingkung an um
-Upa si hna seh, hngakchia si hna seh, tlangrai si an i chun dih
+Upa si hna seh, ngakchia si hna seh, tlangrai si an i chun dih
 Sisik in kan auh te lai
 An si a ṭha ngai
 An si a ṭhat in chawnh a har
@@ -3947,7 +3947,7 @@ Suimilam pakhat ah meng li a kal kho
 Ṭhudan ah ka ke kaa suk
 I ralring, cawpi hrang nih an suk sual lai
 A hna a tla i a lu a suk
-Cawtum nih hngakchia pa a suk
+Cawtum nih ngakchia pa a suk
 Ka meithal nih a ka suk
 Sahpiat in kan thil kan suk
 Saram cu a sul in kan zulh khawh
@@ -4466,7 +4466,7 @@ Ngaknu le tlangval an i uar
 Ngakchia lente aa celh
 Ngakchia thlimnak bawm
 Ngakchia nu a ṭap
-Hngakchia pa bawlung an chuih
+Ngakchia pa bawlung an chuih
 Ngakṭah le nuhmei cu kan bomh hna awk a si
 Laimi nih ngal kah an rak sunhsak ngai
 A ngal ah fung in an tuk
@@ -4483,7 +4483,7 @@ Na fa a ngam cang
 Kawlram i ka ngam khawh lo caah US ah ka kal
 Na ngamh zat ka ngamh ve ko
 Keimah lawngin kaan ngamh ko
-Hngakchia a ṭapmi kha ngamh i zuam tuah
+Ngakchia a ṭapmi kha ngamh i zuam tuah
 Amah cu mi ngan a si
 Mah ka hawipa hi a lu a ngan ngai
 A ngannak cu a dawtnak ah a lang
@@ -4525,7 +4525,7 @@ Ka angki a ngawn
 Na tawhrolh a hnawmh ahcun tuan ah na suk lai
 Thisen chungtlik in a ngor
 Ka pa ka ngawt dengmang cang
-Sianghngakchia cu an tlung dih ngawt cang
+Siangngakchia cu an tlung dih ngawt cang
 Rel a herh mi cu a rel dih ngawt ko hna
 Thingnge ah vate aa fu
 Inn pakhat ka ngei
@@ -4821,7 +4821,7 @@ Ngaknu cheukhat cu an nih tikah an i dawh khun
 Kan nihnak ah kan mitthli zong a tla dih
 A tuahmi kha an hmuh tikah an nih lengmang
 Ka pa nih sakhi a kah
-Saya nih sianghngakchia ca a chimh hna
+Saya nih siangngakchia ca a chimh hna
 Na nih a chuah tuk ahcun i sum duh hlah
 Na chim mi ka nih a chuak tuk
 Capo an sai i an i nuam ngai
@@ -4863,7 +4863,7 @@ Jesuh cu nizaan, nihin, le thaizing aa khat ko
 Nihin cu nizarh a si i lo ah ka kal lo
 Nizaan ah ngaknu no pakhat aa chawnh ka hmuh
 Sung Hlei pa cu a kum a upa nain a no ngai
-Hngakchia no te lawng a si
+Ngakchia no te lawng a si
 Hakha dawr ah piar an tam ko
 Na angki kha ti ah va nok
 A chim cia a nolh lengmang
@@ -4871,7 +4871,7 @@ Ka kal nolh lai
 Ka nolh nolh lai
 Nuamh nak dum ah kan kal lai
 An i nuamh tuk naak ah zeizong vialte an philh dih
-A chimh mi hna tuanbia nih hngakchia a nuamh ter hna
+A chimh mi hna tuanbia nih ngakchia a nuamh ter hna
 Kei cu a nuamhnak hmun i um hi kaa tim
 Dawr i thingthei tamtuk an zuar tikah an man a ṭum deuh ve
 Caw ek cu non ṭha a si
@@ -4896,7 +4896,7 @@ Lentecalh in i nuamh khawh a si
 An i nuamh tuk ah an mitthli a tla
 A biachim a fum
 A pa nih a sik i rawl a nuar
-Sianghngakchia an nuar
+Siangngakchia an nuar
 A nuar lengmang tikah an hnem duh ti lo
 A kal a nuarh tuk tikah a kan tlai ter dih
 Nudok padok si hi an i thim mi cu si dawh a si ko
@@ -4955,7 +4955,7 @@ Luval nih kan lu a thah ter
 A lu thlung ah chiti an thuh
 Ralkap ah a lut
 Inn chungah a lut
-Hngakchia lusip cu a nem ngai
+Ngakchia lusip cu a nem ngai
 Mizo khi a hlan ah Lusei an rak ti hna
 Kan luruh cu a cang ngai ko
 Lupawng aa ponh
@@ -4969,7 +4969,7 @@ Na bahnak ding caah na ral nih thil pakhatkhat an tuah ko lai
 Na bah ahcun na ke a kiak sual lai
 Na bah ahcun naa khawngdeng sual lai
 Rai nih a fanh i a it ko
-Hngakchia a si i a bah lengmang rih ko lai
+Ngakchia a si i a bah lengmang rih ko lai
 Lung aa chuih i a bah
 Ka nu nih lakphak thlum a ka lumh
 Tisa na sat tikah i ralring
