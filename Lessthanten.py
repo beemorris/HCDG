@@ -1,4 +1,4 @@
-def main()
+def main():
 	def getInputFile():
 		bad = True
 		while bad:
