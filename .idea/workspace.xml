@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb6d7710-c21c-4a02-8fbc-756342a7af69" name="Default Changelist" comment="" />
+    <list default="true" id="bb6d7710-c21c-4a02-8fbc-756342a7af69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cnhtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cnhtest.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cnhtest.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16" />
+            <state relative-caret-position="148">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -117,6 +121,7 @@
         <option value="$PROJECT_DIR$/Lessthanten.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/Cleaner.py" />
+        <option value="$PROJECT_DIR$/cnhtest.txt" />
       </list>
     </option>
   </component>
@@ -370,7 +375,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cnhtest.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16" />
+        <state relative-caret-position="148">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
       </provider>
     </entry>
   </component>

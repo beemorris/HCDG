@@ -2,19 +2,19 @@ Ka	vok 	ca	ah	inn	sak	piak	ka         duh
 1.sg	pig	ben 	prep	house	build.II ben 	1ss       want.II 
 “I want to build a house for my pigs” 
 
-<Mei 	kha 		an	sen 	dih.>
+Mei 	kha 		an	sen 	dih.
   light	med.DEM	3PS	red	COMPL
 	“The lights were all red.”
 
-<Uico		a	rak 	rang 	tuk.>
+Uico		a	rak 	rang 	tuk.
   Dog		3SS	PERF fast 	very
 "The dog was fast."
 
-<Mei	a	vun	sen.>
+Mei	a	vun	sen.
   light	3SS	IMM	red
 "The light immediately turned red."
 
-<Mah		uico	hi		a	ran	pik		mi	a	si	lai.>
+Mah		uico	hi		a	ran	pik		mi	a	si	lai.
  gen.DEM	dog 	prox.DEM	3SS	fast	COMP	REL	3SS	COP	FUT
 	“This dog will (definitely) be fast.”
 
@@ -56,9 +56,6 @@ Bawi-nih	cawsa   a-chumh.
 Bawi-ERG	beef      3SS-cook.
 ‘Bawi cooked the beef.’
 
-
-
-
 Bawi-nih	cawsa		chumh	aa-tim.
 Bawi-ERG  	beef		cook		REFL-prepare.
 ‘Bawi is preparing (himself) to cook the beef `
@@ -74,7 +71,6 @@ Bawi-ERG	beef      eat   REFL-force
 Bawi-nih	Chin    cawsa   ei	a-hnek.
 Bawi-ERG	Chin    beef      eat	3SS-force
 ‘Bawi encouraged Chin to eat the beef.’
-
 
 ka	    tta	pa	nih	sibawi	pa	biakinn	ah	a	∅	hmu
 1s.poss  brother m      erg    	doctor  m       	church  loc    	3ss     	3so	see.I
@@ -117,10 +113,6 @@ khi    	 hna     nih     khi-n    		 uico     an    	 dawi
 dist.DEM    PL   	 ERG   	 dist.DEM-ERG    dog   	 3P.SUBJ    chase.III
 ‘Those people chased a dog’
 
-
-
-
-
 hi    		 seh    	 nih     hi-n    		 thil    	 a    		 ttawl
 prox.DEM    machine   	 ERG   	 prox.DEM-ERG    clothes   	 3SG.SUBJ    wash.III
 ‘This machine washes clothes’
@@ -152,8 +144,6 @@ Child.female ERG   king            	        	INSTR        	3P.S   dance.I
 A     	        	ke    	ah   	hma	        	a      	∅      	ei.
 3S.POSS   	leg   	LOC	wound         	3S.S   3S.O   eat.III
 “He has a wound on his leg.”
- 
-
 
 Mei  	nih  	lo     	cu    	a      	∅      	khangh.
 Fire 	ERG   field	TOP	3S.S   3S.O   burn.II
