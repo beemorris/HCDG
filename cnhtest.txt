@@ -1,15 +1,20 @@
 Ka	vok 	ca	ah	inn	sak	piak	ka         duh 
+1.sg	pig	ben 	prep	house	build.II ben 	1ss       want.II 
 “I want to build a house for my pigs” 
 
+<Mei 	kha 		an	sen 	dih.>
   light	med.DEM	3PS	red	COMPL
 	“The lights were all red.”
 
+<Uico		a	rak 	rang 	tuk.>
   Dog		3SS	PERF fast 	very
 "The dog was fast."
 
+<Mei	a	vun	sen.>
   light	3SS	IMM	red
 "The light immediately turned red."
 
+<Mah		uico	hi		a	ran	pik		mi	a	si	lai.>
  gen.DEM	dog 	prox.DEM	3SS	fast	COMP	REL	3SS	COP	FUT
 	“This dog will (definitely) be fast.”
 
@@ -21,15 +26,18 @@ ahou	nih	dah	uico	a	∅ 	kheuh	ti	John	nih	a	thei
 who	ERG	Q	dog	3.SS	3.SO	bite.III	COMP	John	ERG	3.SS	know.I 
 ‘I know who bit John’  
 Ka 	ei 	lio
+1PS	EAT.III	PROG
 “I am eating”
 
 Ka 	ei
+1PS	EAT.III
 
 Uico 	ka 	ngei
 DOG	1PS	HAVE
 “I have a dog”
 
 A 	si 	lo
+3PS	BE	NEG
 “It is not”
 
 Chisaw 	nih 	uico 	a 	dawi
@@ -41,6 +49,7 @@ DOG	ERG	CAT.PL	3PS	CHASE.III	PL
 “The dog chased the cats”
 
 Nangmah	le	nangmah	naa	hmu
+2PS		AND	2PS		REFL	SEE
 “You see yourself”
 
 Bawi-nih	cawsa   a-chumh.
@@ -68,12 +77,14 @@ Bawi-ERG	Chin    beef      eat	3SS-force
 
 
 ka	    tta	pa	nih	sibawi	pa	biakinn	ah	a	∅	hmu
+1s.poss  brother m      erg    	doctor  m       	church  loc    	3ss     	3so	see.I
 My brother saw the doctor at the church
 
 sayamah	nu	nih     	ngakchia         	nu      	cauk  	a        	∅          	pe	lo
 teacher           	f         	erg    	child                	f         	book 	3ss     	3so	give.I 	neg
 The teacher didn’t give a book to the girl
 ka      	    tta		pa      	kha    	a        	niam 		tuk
+1s.poss  brother 	m       	top    	3ss     	short.III          	very
 My brother is short
 bawlung	a        	rilh	ruangah          	uico   	nih     	a          ∅        	dawi
 Ball		3ss     	roll.II 	because         	dog    	erg     3ss     	3so    	chase.III
@@ -87,6 +98,7 @@ day-one-day	3ss   	COP.1?
 Today is Monday
  
 a      		kum 	ka    	tei    		lo
+3s.POSS       	age  	1ss   	know.I?   NEG
 I don't know his age
  
 kum 	hleinga ka   	si
@@ -138,6 +150,7 @@ Child.female ERG   king            	        	INSTR        	3P.S   dance.I
 “The girl danced with the king.”
  
 A     	        	ke    	ah   	hma	        	a      	∅      	ei.
+3S.POSS   	leg   	LOC	wound         	3S.S   3S.O   eat.III
 “He has a wound on his leg.”
  
 
@@ -147,6 +160,7 @@ Fire 	ERG   field	TOP	3S.S   3S.O   burn.II
 “The fire burned the field.”
 
 Ka        hmuh   mi        ka        duh
+1.ss       see.II   rel        1.ss       like.II
 “I like what I see.”
  
 Mipa                nih       a          ka        chuih
@@ -154,4 +168,5 @@ person.male    erg       3.ss       1.so     kick.II
 “The man kicked me.”
  
 Ka        nuamh             tikah    hla       a          sa
+1.ss       happy.II           when   song    3.ss       sing.I
 “When I’m happy, she sings.”

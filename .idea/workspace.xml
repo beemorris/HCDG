@@ -27,15 +27,15 @@
         <counts>
           <entry key="csv" value="4" />
           <entry key="html" value="4" />
-          <entry key="py" value="8" />
-          <entry key="txt" value="21" />
+          <entry key="py" value="9" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="4" />
-          <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="7" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="8" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -59,12 +59,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cleaner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cnhtest.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16" />
           </provider>
         </entry>
       </file>
@@ -109,6 +116,7 @@
         <option value="$USER_HOME$/issues/29/29-3775.html" />
         <option value="$PROJECT_DIR$/Lessthanten.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Cleaner.py" />
       </list>
     </option>
   </component>
@@ -160,7 +168,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scratch">
+  <component name="RunManager" selected="Python.Cleaner">
+    <configuration name="Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HCDG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HCLengthExtraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HCDG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,9 +257,11 @@
       <item itemvalue="Python.HCLengthExtraction" />
       <item itemvalue="Python.Lessthanten" />
       <item itemvalue="Python.scratch" />
+      <item itemvalue="Python.Cleaner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Cleaner" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.Lessthanten" />
         <item itemvalue="Python.HCLengthExtraction" />
@@ -254,12 +285,12 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16521049" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16521049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,9 +356,21 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-end-line="24" selection-end-column="6" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cleaner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnhtest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16" />
       </provider>
     </entry>
   </component>
