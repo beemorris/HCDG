@@ -1,0 +1,157 @@
+Ka	vok 	ca	ah	inn	sak	piak	ka         duh 
+“I want to build a house for my pigs” 
+
+  light	med.DEM	3PS	red	COMPL
+	“The lights were all red.”
+
+  Dog		3SS	PERF fast 	very
+"The dog was fast."
+
+  light	3SS	IMM	red
+"The light immediately turned red."
+
+ gen.DEM	dog 	prox.DEM	3SS	fast	COMP	REL	3SS	COP	FUT
+	“This dog will (definitely) be fast.”
+
+Siizun    i        sibawi nih  sii            an             pek 
+hospital poss  doctor erg medicine 3SS.2.SO  give.ii 
+“The hospital’s doctor gave you medicine”
+
+ahou	nih	dah	uico	a	∅ 	kheuh	ti	John	nih	a	thei 
+who	ERG	Q	dog	3.SS	3.SO	bite.III	COMP	John	ERG	3.SS	know.I 
+‘I know who bit John’  
+Ka 	ei 	lio
+“I am eating”
+
+Ka 	ei
+
+Uico 	ka 	ngei
+DOG	1PS	HAVE
+“I have a dog”
+
+A 	si 	lo
+“It is not”
+
+Chisaw 	nih 	uico 	a 	dawi
+CAT		ERG	DOG	3PS	CHASE.III
+“The cat chased the dog”
+
+Uico 	nih 	chisawpol 	a 	dawi 		hna
+DOG	ERG	CAT.PL	3PS	CHASE.III	PL
+“The dog chased the cats”
+
+Nangmah	le	nangmah	naa	hmu
+“You see yourself”
+
+Bawi-nih	cawsa   a-chumh.
+Bawi-ERG	beef      3SS-cook.
+‘Bawi cooked the beef.’
+
+
+
+
+Bawi-nih	cawsa		chumh	aa-tim.
+Bawi-ERG  	beef		cook		REFL-prepare.
+‘Bawi is preparing (himself) to cook the beef `
+
+Bawi-nih	Chin	cawsa		chumh		a-forh           
+Bawi-ERG	Chin    beef		cook		3SS-tempt.III
+‘Bawi tempted Chin to cook the beef.’
+
+Bawi-nih	cawsa   ei     aa-hnek.
+Bawi-ERG	beef      eat   REFL-force 
+‘Bawi encouraged himself to eat the beef.’
+
+Bawi-nih	Chin    cawsa   ei	a-hnek.
+Bawi-ERG	Chin    beef      eat	3SS-force
+‘Bawi encouraged Chin to eat the beef.’
+
+
+ka	    tta	pa	nih	sibawi	pa	biakinn	ah	a	∅	hmu
+My brother saw the doctor at the church
+
+sayamah	nu	nih     	ngakchia         	nu      	cauk  	a        	∅          	pe	lo
+teacher           	f         	erg    	child                	f         	book 	3ss     	3so	give.I 	neg
+The teacher didn’t give a book to the girl
+ka      	    tta		pa      	kha    	a        	niam 		tuk
+My brother is short
+bawlung	a        	rilh	ruangah          	uico   	nih     	a          ∅        	dawi
+Ball		3ss     	roll.II 	because         	dog    	erg     3ss     	3so    	chase.III
+Because the ball was rolling, the dog chased it
+ngakchia         	pa      	aa      	          	tthangh           	hnuin	rawl  	a          	∅        	ei
+child                	m       	refl   	          	wake.up.II      	after  	food  	3ss          	3so    	eat.III
+After the child woke up, he ate
+
+ni-hni-ni      	a      	si
+day-one-day	3ss   	COP.1?
+Today is Monday
+ 
+a      		kum 	ka    	tei    		lo
+I don't know his age
+ 
+kum 	hleinga ka   	si
+age  	fifteen 1ss   	COP.III
+I am fifteen years old
+ 
+kacik    ah    	 inttun         	kan  	kal
+winter LOC  	caroling       	1pls 	go.III
+we go caroling in winter
+ 
+thala            	cung    a      	lin    	tok
+summer      	loc   	3ss   	be-hot very
+In summer it's very hot
+
+khi    	 hna     nih     khi-n    		 uico     an    	 dawi
+dist.DEM    PL   	 ERG   	 dist.DEM-ERG    dog   	 3P.SUBJ    chase.III
+‘Those people chased a dog’
+
+
+
+
+
+hi    		 seh    	 nih     hi-n    		 thil    	 a    		 ttawl
+prox.DEM    machine   	 ERG   	 prox.DEM-ERG    clothes   	 3SG.SUBJ    wash.III
+‘This machine washes clothes’
+
+khoi-ka   	 ah    dah   	 cauk    a   		 um
+where-place    LOC    INT   	 book    3SG.SUBJ    be.at.III
+‘Where is the book?’
+
+lung    nih    hi   		 ka    ha   	 ah    hi-n   		 a    ka    peh
+rock    ERG    prox.DEM    1SG    tooth    LOC    prox.DEM-ERG    3SG    1SG    hit
+'A rock hit me on this tooth’    
+
+hi   		 cauk    hi   		 i hlang   	 ve   	 na   		 duh   		 maw
+prox.DEM    book    prox.DEM    borrow   	 also    2SG.SUBJ    want.III    INT
+‘Do you want to borrow this book?’
+
+Nizan          	ah    	caw 	ka    	∅      	hmuh.
+Yesterday  	LOC	Cow	1S.S   3S.O   see.II
+“I saw a cow yesterday.”
+ 
+Ngakchiapa  nih  	darkio         	in     	        	rol    	a      	∅      	ei.
+Child.male 	ERG   spoon         	INSTR        	food	3S.S   3S.O   eat.III
+“The boy ate food with a spoon.”
+ 
+Ngakchianu  nih  	siangpahrangpa   	he   	        	an   	laam.
+Child.female ERG   king            	        	INSTR        	3P.S   dance.I
+“The girl danced with the king.”
+ 
+A     	        	ke    	ah   	hma	        	a      	∅      	ei.
+“He has a wound on his leg.”
+ 
+
+
+Mei  	nih  	lo     	cu    	a      	∅      	khangh.
+Fire 	ERG   field	TOP	3S.S   3S.O   burn.II
+“The fire burned the field.”
+
+Ka        hmuh   mi        ka        duh
+“I like what I see.”
+ 
+Mipa                nih       a          ka        chuih
+person.male    erg       3.ss       1.so     kick.II
+“The man kicked me.”
+ 
+Ka        nuamh             tikah    hla       a          sa
+“When I’m happy, she sings.”
