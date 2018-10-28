@@ -18,7 +18,7 @@ def main():
 			line = line.replace('\n', '')
 			tokenized = [len(line.split())]  # tokenizes the sentence
 
-		print(tokenized)
+		
 
 	clean()
 
