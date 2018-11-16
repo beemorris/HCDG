@@ -1,0 +1,251 @@
+1
+Ka	vok 	ca	ah	inn	sak	piak	ka         duh 
+1.sg	pig	ben 	prep	house	build.II ben 	1ss       want.II 
+“I want to build a house for my pigs” 
+
+2
+<Mei 	kha 		an	sen 	dih.>
+  light	med.DEM	3PS	red	COMPL
+	“The lights were all red.”
+
+3
+<Uico		a	rak 	rang 	tuk.>
+  Dog		3SS	PERF fast 	very
+"The dog was fast."
+
+4
+<Mei	a	vun	sen.>
+  light	3SS	IMM	red
+"The light immediately turned red."
+
+5
+<Mah		uico	hi		a	ran	pik		mi	a	si	lai.>
+ gen.DEM	dog 	prox.DEM	3SS	fast	COMP	REL	3SS	COP	FUT
+	“This dog will (definitely) be fast.”
+
+6
+Siizun    i        sibawi nih  sii            an             pek 
+hospital poss  doctor erg medicine 3SS.2.SO  give.ii 
+“The hospital’s doctor gave you medicine”
+
+7
+ahou	nih	dah	uico	a	∅ 	kheuh	ti	John	nih	a	thei 
+who	ERG	Q	dog	3.SS	3.SO	bite.III	COMP	John	ERG	3.SS	know.I 
+‘I know who bit John’  
+8
+Ka 	ei 	lio
+1PS	EAT.III	PROG
+“I am eating”
+
+9
+Ka 	ei
+1PS	EAT.III
+
+10
+Uico 	ka 	ngei
+DOG	1PS	HAVE
+“I have a dog”
+
+11
+A 	si 	lo
+3PS	BE	NEG
+“It is not”
+
+12
+Chisaw 	nih 	uico 	a 	dawi
+CAT		ERG	DOG	3PS	CHASE.III
+“The cat chased the dog”
+
+13
+Uico 	nih 	chisawpol 	a 	dawi 		hna
+DOG	ERG	CAT.PL	3PS	CHASE.III	PL
+“The dog chased the cats”
+
+14
+Nangmah	le	nangmah	naa	hmu
+2PS		AND	2PS		REFL	SEE
+“You see yourself”
+
+15
+Bawi-nih	cawsa   a-chumh.
+Bawi-ERG	beef      3SS-cook.
+‘Bawi cooked the beef.’
+
+
+
+
+16
+Bawi-nih	cawsa		chumh	aa-tim.
+Bawi-ERG  	beef		cook		REFL-prepare.
+‘Bawi is preparing (himself) to cook the beef `
+
+17
+Bawi-nih	Chin	cawsa		chumh		a-forh           
+Bawi-ERG	Chin    beef		cook		3SS-tempt.III
+‘Bawi tempted Chin to cook the beef.’
+
+18
+Bawi-nih	cawsa   ei     aa-hnek.
+Bawi-ERG	beef      eat   REFL-force 
+‘Bawi encouraged himself to eat the beef.’
+
+19
+Bawi-nih	Chin    cawsa   ei	a-hnek.
+Bawi-ERG	Chin    beef      eat	3SS-force
+‘Bawi encouraged Chin to eat the beef.’
+
+
+20
+ka	    tta	pa	nih	sibawi	pa	biakinn	ah	a	∅	hmu
+1s.poss  brother m      erg    	doctor  m       	church  loc    	3ss     	3so	see.I
+My brother saw the doctor at the church
+
+21
+sayamah	nu	nih     	ngakchia         	nu      	cauk  	a        	∅          	pe	lo
+teacher           	f         	erg    	child                	f         	book 	3ss     	3so	give.I 	neg
+The teacher didn’t give a book to the girl
+22
+ka      	    tta		pa      	kha    	a        	niam 		tuk
+1s.poss  brother 	m       	top    	3ss     	short.III          	very
+My brother is short
+23
+bawlung	a        	rilh	ruangah          	uico   	nih     	a          ∅        	dawi
+Ball		3ss     	roll.II 	because         	dog    	erg     3ss     	3so    	chase.III
+Because the ball was rolling, the dog chased it
+24
+ngakchia         	pa      	aa      	          	tthangh           	hnuin	rawl  	a          	∅        	ei
+child                	m       	refl   	          	wake.up.II      	after  	food  	3ss          	3so    	eat.III
+After the child woke up, he ate
+
+25
+ni-hni-ni      	a      	si
+day-one-day	3ss   	COP.1?
+Today is Monday
+ 
+26
+a      		kum 	ka    	tei    		lo
+3s.POSS       	age  	1ss   	know.I?   NEG
+I don't know his age
+ 
+27
+kum 	hleinga ka   	si
+age  	fifteen 1ss   	COP.III
+I am fifteen years old
+ 
+28
+kacik    ah    	 inttun         	kan  	kal
+winter LOC  	caroling       	1pls 	go.III
+we go caroling in winter
+ 
+29
+thala            	cung    a      	lin    	tok
+summer      	loc   	3ss   	be-hot very
+In summer it's very hot
+
+30
+khi    	 hna     nih     khi-n    		 uico     an    	 dawi
+dist.DEM    PL   	 ERG   	 dist.DEM-ERG    dog   	 3P.SUBJ    chase.III
+‘Those people chased a dog’
+
+
+
+
+
+
+
+31
+hi    		 seh    	 nih     hi-n    		 thil    	 a    		 ttawl
+prox.DEM    machine   	 ERG   	 prox.DEM-ERG    clothes   	 3SG.SUBJ    wash.III
+‘This machine washes clothes’
+
+32
+khoi-ka   	 ah    dah   	 cauk    a   		 um
+where-place    LOC    INT   	 book    3SG.SUBJ    be.at.III
+‘Where is the book?’
+
+33
+lung    nih    hi   		 ka    ha   	 ah    hi-n   		 a    ka    peh
+rock    ERG    prox.DEM    1SG    tooth    LOC    prox.DEM-ERG    3SG    1SG    hit
+'A rock hit me on this tooth’    
+
+34
+hi   		 cauk    hi   		 i hlang   	 ve   	 na   		 duh   		 maw
+prox.DEM    book    prox.DEM    borrow   	 also    2SG.SUBJ    want.III    INT
+‘Do you want to borrow this book?’
+
+35
+Nizan          	ah    	caw 	ka    	∅      	hmuh.
+Yesterday  	LOC	Cow	1S.S   3S.O   see.II
+“I saw a cow yesterday.”
+ 
+36
+Ngakchiapa  nih  	darkio         	in     	        	rol    	a      	∅      	ei.
+Child.male 	ERG   spoon         	INSTR        	food	3S.S   3S.O   eat.III
+“The boy ate food with a spoon.”
+ 
+37
+Ngakchianu  nih  	siangpahrangpa   	he   	        	an   	laam.
+Child.female ERG   king            	        	INSTR        	3P.S   dance.I
+“The girl danced with the king.”
+ 
+38
+A     	        	ke    	ah   	hma	        	a      	∅      	ei.
+3S.POSS   	leg   	LOC	wound         	3S.S   3S.O   eat.III
+“He has a wound on his leg.”
+ 
+
+
+39
+Mei  	nih  	lo     	cu    	a      	∅      	khangh.
+Fire 	ERG   field	TOP	3S.S   3S.O   burn.II
+“The fire burned the field.”
+
+40
+Ka        hmuh   mi        ka        duh
+1.ss       see.II   rel        1.ss       like.II
+“I like what I see.”
+ 
+41
+Mipa                nih       a          ka        chuih
+person.male    erg       3.ss       1.so     kick.II
+“The man kicked me.”
+ 
+42
+Ka        nuamh             tikah    hla       a          sa
+1.ss       happy.II           when   song    3.ss       sing.I
+“When I’m happy, she sings.”
+
+43
+Mei	a	mit
+Fire	3.ss	extinguish.I
+“The fire went out’ 
+
+44
+Mei	ka	∅	hmit
+Fire	1.ss	3.so	extinguish.II	
+“I put the fire out” 
+
+45
+Bu	hme	ka	duh	mi	a	si	cu
+Rice	small	1.ss	want	REL	3.ss	be	DET
+“Some rice is what I want” 
+
+46
+Ka	paw		a	ttam
+1.ss	stomach	3.ss	hunger
+“I’m hungry”
+
+47
+Van	cu	a	pia
+Sky	TOP	3.ss	blue 
+
+
+
+48
+A	tung	a	sang	deu	mo?
+3.ss	stature	3.ss	tall	more	Q
+‘Is he taller (than before)?’ 
+
+49
+Ka	sam	a	saoh			lai
+1.ss	hair	3.ss	lengthen.II		FUT		
