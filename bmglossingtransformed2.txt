@@ -181,6 +181,7 @@ PRON	stomach	PRON	hunger
 
 Van	cu	a	pia
 Sky	TOP	PRON	blue
+The sky is blue
 
 A	tung	a	sang	deu	mo?
 PRON	stature	PRON	tall	more	Q
