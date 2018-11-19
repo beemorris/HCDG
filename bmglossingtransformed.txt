@@ -1,0 +1,251 @@
+1
+Ka	vok 	ca	ah	inn	sak	piak	ka         duh
+PRON	pig	ben 	prep	house	build ben 	PRON       want
+“I want to build a house for my pigs”
+
+2
+Mei 	kha 		an	sen 	dih.
+  light	med.DEM	PRON	red	COMPL
+	“The lights were all red.”
+
+3
+Uico		a	rak 	rang 	tuk.
+  Dog		PRON	PERF fast 	very
+"The dog was fast."
+
+4
+Mei	a	vun	sen.
+  light	PRON	IMM	red
+"The light immediately turned red."
+
+5
+Mah		uico	hi		a	ran	pik		mi	a	si	lai.
+ gen.DEM	dog 	DEM	PRON	fast	COMP	REL	PRON	AUX	FUT
+	“This dog will (definitely) be fast.”
+
+6
+Siizun    i        sibawi nih  sii            an             pek
+hospital nmod:poss  doctor ERG medicine PRON  give.ii
+“The hospital’s doctor gave you medicine”
+
+7
+ahou	nih	dah	uico	a	∅ 	kheuh	ti	John	nih	a	thei
+who	ERG	Q	dog	PRON	PRON	bite	COMP	John	ERG	PRON	know.I
+‘I know who bit John’
+8
+Ka 	ei 	lio
+PRON	EAT	PROG
+“I am eating”
+
+9
+Ka 	ei
+PRON	EAT
+
+10
+Uico 	ka 	ngei
+DOG	PRON	HAVE
+“I have a dog”
+
+11
+A 	si 	lo
+PRON	AUX	NEG
+“It is not”
+
+12
+Chisaw 	nih 	uico 	a 	dawi
+CAT		ERG	DOG	PRON	CHASE
+“The cat chased the dog”
+
+13
+Uico 	nih 	chisawpol 	a 	dawi 		hna
+DOG	ERG	CAT	PRON	CHASE	PL
+“The dog chased the cats”
+
+14
+Nangmah	le	nangmah	naa	hmu
+PRON		AND	PRON		REFL	SEE
+“You see yourself”
+
+15
+Bawi	nih	cawsa   a	chumh.
+Bawi	ERG	beef      PRON	cook.
+‘Bawi cooked the beef.’
+
+
+
+
+16
+Bawi	nih	cawsa		chumh	aa	tim.
+Bawi	ERG  	beef		cook		REFL	prepare.
+‘Bawi is preparing (himself) to cook the beef `
+
+17
+Bawi	nih	Chin	cawsa		chumh		a	forh
+Bawi	ERG	Chin    beef		cook		PRON	tempt
+‘Bawi tempted Chin to cook the beef.’
+
+18
+Bawi	nih	cawsa   ei     aa	hnek.
+Bawi	ERG	beef      eat   REFL	force
+‘Bawi encouraged himself to eat the beef.’
+
+19
+Bawi	nih	Chin    cawsa   ei	a	hnek.
+Bawi	ERG	Chin    beef      eat	PRON	force
+‘Bawi encouraged Chin to eat the beef.’
+
+
+20
+ka	    tta	pa	nih	sibawi	pa	biakinn	ah	a	∅	hmu
+nmod:poss  brother m      ERG    	doctor  m       	church  loc    	PRON     	PRON	see.I
+My brother saw the doctor at the church
+
+21
+sayamah	nu	nih     	ngakchia         	nu      	cauk  	a        	∅          	pe	lo
+teacher           	f         	ERG    	child                	f         	book 	PRON     	PRON	give.I 	neg
+The teacher didn’t give a book to the girl
+22
+ka      	    tta		pa      	kha    	a        	niam 		tuk
+nmod:poss  brother 	m       	top    	PRON     	short          	very
+My brother is short
+23
+bawlung	a        	rilh	ruangah          	uico   	nih     	a          ∅        	dawi
+Ball		PRON     	roll 	because         	dog    	ERG     PRON     	PRON    	chase
+Because the ball was rolling, the dog chased it
+24
+ngakchia         	pa      	aa      	          	tthangh           	hnuin	rawl  	a          	∅        	ei
+child                	m       	refl   	          	wake.up      	after  	food  	PRON          	PRON    	eat
+After the child woke up, he ate
+
+25
+ni	hni	ni      	a      	si
+day	one	day	PRON   	AUX
+Today is Monday
+
+26
+a      		kum 	ka    	tei    		lo
+PRON       	age  	PRON   	know.I?   NEG
+I don't know his age
+
+27
+kum 	hleinga ka   	si
+age  	fifteen PRON   	AUX
+I am fifteen years old
+
+28
+kacik    ah    	 inttun         	kan  	kal
+winter ADP  	caroling       	PRON 	go
+we go caroling in winter
+
+29
+thala            	cung    a      	lin    	tok
+summer      	loc   	PRON   	be	hot very
+In summer it's very hot
+
+30
+khi    	 hna     nih     khi	n    		 uico     an    	 dawi
+dist.DEM    PL   	 ERG   	 dist.DEM	ERG    dog   	 PRON    chase
+‘Those people chased a dog’
+
+
+
+
+
+
+
+31
+hi    		 seh    	 nih     hi	n    		 thil    	 a    		 ttawl
+DEM    machine   	 ERG   	 DEM	ERG    clothes   	 PRON    wash
+‘This machine washes clothes’
+
+32
+khoi	ka   	 ah    dah   	 cauk    a   		 um
+where	place    ADP    Q   	 book    PRON    AUX
+‘Where is the book?’
+
+33
+lung    nih    hi   		 ka    ha   	 ah    hi	n   		 a    ka    peh
+rock    ERG    DEM    PRON    tooth    ADP    DEM	ERG    PRON    PRON    hit
+'A rock hit me on this tooth’
+
+34
+hi   		 cauk    hi   		 i hlang   	 ve   	 na   		 duh   		 maw
+DEM    book    DEM    borrow   	 also    PRON    want    Q
+‘Do you want to borrow this book?’
+
+35
+Nizan          	ah    	caw 	ka    	∅      	hmuh.
+Yesterday  	ADP	Cow	PRON   PRON   see
+“I saw a cow yesterday.”
+
+36
+Ngakchiapa  nih  	darkio         	in     	        	rol    	a      	∅      	ei.
+Child.male 	ERG   spoon         	INSTR        	food	PRON   PRON   eat
+“The boy ate food with a spoon.”
+
+37
+Ngakchianu  nih  	siangpahrangpa   	he   	        	an   	laam.
+Child.female ERG   king            	        	INSTR        	PRON   dance.I
+“The girl danced with the king.”
+
+38
+A     	        	ke    	ah   	hma	        	a      	∅      	ei.
+PRON   	leg   	ADP	wound         	PRON   PRON   eat
+“He has a wound on his leg.”
+
+
+
+39
+Mei  	nih  	lo     	cu    	a      	∅      	khangh.
+Fire 	ERG   field	TOP	PRON   PRON   burn
+“The fire burned the field.”
+
+40
+Ka        hmuh   mi        ka        duh
+PRON       see   rel        PRON       like
+“I like what I see.”
+
+41
+Mipa                nih       a          ka        chuih
+person.male    ERG       PRON      PRON     kick
+“The man kicked me.”
+
+42
+Ka        nuamh             tikah    hla       a          sa
+PRON       happy           when   song    PRON      sing.I
+“When I’m happy, she sings.”
+
+43
+Mei	a	mit
+Fire	PRON	extinguish.I
+“The fire went out’
+
+44
+Mei	ka	∅	hmit
+Fire	PRON	PRON	extinguish
+“I put the fire out”
+
+45
+Bu	hme	ka	duh	mi	a	si	cu
+Rice	small	PRON	want	REL	PRON	be	DET
+“Some rice is what I want”
+
+46
+Ka	paw		a	ttam
+PRON	stomach	PRON	hunger
+“I’m hungry”
+
+47
+Van	cu	a	pia
+Sky	TOP	PRON	blue
+
+
+
+48
+A	tung	a	sang	deu	mo?
+PRON	stature	PRON	tall	more	Q
+‘Is he taller (than before)?’
+
+49
+Ka	sam	a	saoh			lai
+PRON	hair	PRON	lengthen		FUT
