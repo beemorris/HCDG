@@ -45,7 +45,7 @@ def main():
 
 
 		#creates a tab delimited csv file where HC is on the left and EN is on the right
-		f = open('output.csv', 'w')
+		f = open('output.tsv', 'w')
 		for i, j in zip(tenorless, matchedlines):
 			f.write(str(i) + "\t" + str(j) + '\n')
 		f.close()
